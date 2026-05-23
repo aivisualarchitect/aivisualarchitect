@@ -6,13 +6,13 @@ I build practical AI-supported workflows that connect technical understanding, b
 
 This GitHub profile is a selected technical proof layer for my work in applied AI strategy, visual archive intelligence, private local search, technical marketing, cybersecurity buyer education, and business workflow design.
 
-## Portfolio
+## Portfolio Links
 
-- Applied AI workflow portfolio: https://aivisualarchitect.github.io/
-- Main website: https://nikolaygul.com
-- LinkedIn: https://www.linkedin.com/in/nikolaygul/
-- X / Twitter: https://x.com/nikolaygul
-- Medium: https://medium.com/@nickgul
+- [Applied AI Workflow Portfolio](https://aivisualarchitect.github.io/)
+- [Main Website — NikolayGul.com](https://nikolaygul.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/nikolaygul/)
+- [X / Twitter — @NikolayGul](https://x.com/nikolaygul)
+- [Medium Articles](https://medium.com/@nickgul)
 
 ## Current Focus
 
@@ -47,6 +47,17 @@ Offline search and indexing concept for large exported conversation archives, wi
 - AI implementation support
 - Documentation and operational playbooks
 
-## Positioning
+## Practical Positioning
 
 This is not a full software engineering portfolio. It is an applied AI and workflow-design portfolio showing practical prototyping, technical understanding, business translation, and implementation thinking.
+
+The goal is simple: show selected proof that I can move from AI idea to practical workflow, from technical complexity to clear business use, and from raw information to usable systems.
+
+## Selected Professional Context
+
+My broader work includes technical marketing, cybersecurity buyer education, digital operations, AI implementation strategy, e-commerce infrastructure, content systems, and practical business decision frameworks.
+
+For more background, visit:
+
+- [NikolayGul.com](https://nikolaygul.com)
+- [LinkedIn](https://www.linkedin.com/in/nikolaygul/)
